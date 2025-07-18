@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "name": "Anil",
+      "age": 29,
+      "email": "anil@test.com",
+      "id": "8a73"
+    },
+    {
+      "name": "Sneha",
+      "email": "sneha@test.com",
+      "age": "30",
+      "id": "9427"
+    },
+    {
+      "name": "Ravi",
+      "age": 32,
+      "email": "ravi@test.com",
+      "id": "ad35"
+    },
+    {
+      "name": "Priya",
+      "age": 27,
+      "email": "priya@test.com",
+      "id": "da68"
+    },
+    {
+      "name": "Mohit",
+      "age": 30,
+      "email": "mohit@test.com",
+      "id": "c906"
+    },
+    {
+      "name": "Neha",
+      "age": 24,
+      "email": "neha@test.com",
+      "id": "eda6"
+    },
+    {
+      "id": "d0c7",
+      "name": "test",
+      "email": "test@gmail.com",
+      "age": "27"
+    }
+  ]
+}
